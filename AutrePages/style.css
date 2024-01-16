@@ -1,0 +1,74 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box ;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    border:none;
+    scroll-behavior: smooth;
+
+    
+}
+:root{
+    --bg-color :#323946; 
+    --second-bg-color :#323946;
+    --text-color :#fff;
+    --main-color :#0ef;
+   
+}
+html{
+    font-size: 15px;
+    overflow-x:hidden;
+}
+body{
+    color: var(--text-color);
+    background: var(--bg-color);
+    overflow-x:hidden;
+}
+h1{
+    color:#0ef;
+    font-size: x-large;
+}
+.diplome1{
+    width: 200px;
+    padding-top: 2%;
+    padding-inline: 20%;
+    
+    /*border: 10px solid white;
+    box-shadow: 5px 10px 5px black;*/
+    /**/
+    /*display: inline-block; 
+    border: 10px solid white; 
+    box-shadow: 5px 10px 5px black;
+    text-align: center;*/
+  
+   /* margin: 1px;
+    border: 5px solid white;
+    box-shadow: 5px 20px 5px black;*/
+ /*  margin: 1px;
+    border: 5px solid white;
+    box-shadow: 5px 20px 5px black;*/
+   
+  
+    
+   
+}
+.diplome2{
+    width: 20px;
+    padding-top: 2%;
+    padding-inline: 20%;
+   
+}
+h1{
+    padding-top: 2%;
+}
+p{
+    padding-top: 2%;  
+    font-size: large;
+}
+p1{
+    color:aqua;
+    font-size: large;
+}
